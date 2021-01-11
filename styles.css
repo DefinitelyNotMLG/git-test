@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  text-align: center;
 }
 
 p {
@@ -16,4 +17,8 @@ p {
 #scoreboard {
   font-size: 16px;
   color: purple;
+}
+
+audio {
+  width: 50%;
 }
